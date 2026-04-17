@@ -14,3 +14,8 @@
 *  [04_Курсовая работа SQL](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/SQL/04.%20%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20sql.pptx)
 *  [Описание кейса SQL](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/SQL/README.md)
  
+## Python:
+* [01_ТЗ-1_Анализ данных о посетителях фитнес-клуба](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/Python/01.%20%D0%A2%D0%97_1%20.ipynb)
+* [02_ТЗ-2_Анализ фин.показателей и маркетинговой акции](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/Python/02.%20%D0%A2%D0%97-2.ipynb)
+* [03_ТЗ-3_Анализ сегментов и клиентской базы](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/Python/03.%20%D0%A2%D0%97-3.ipynb)
+* [Описание кейса Python](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/Python/README.md)
