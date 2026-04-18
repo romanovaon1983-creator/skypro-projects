@@ -19,3 +19,8 @@
 * [02_ТЗ-2_Анализ фин.показателей и маркетинговой акции](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/Python/02.%20%D0%A2%D0%97-2.ipynb)
 * [03_ТЗ-3_Анализ сегментов и клиентской базы](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/Python/03.%20%D0%A2%D0%97-3.ipynb)
 * [Описание кейса Python](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/Python/README.md)
+
+## A/B-тесты:
+* [Jupyter Notebook с анализом и визуализациями](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/AB-тесты/ДИПЛОМ%20.ipynb)
+* [Excel-калькулятор ](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/AB-тесты/Final.xlsx)
+* [Описание кейса A/B-тесты](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/AB-тесты/README.md)
