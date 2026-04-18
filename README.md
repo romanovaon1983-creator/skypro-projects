@@ -23,4 +23,5 @@
 ## A/B-тесты:
 * [Jupyter Notebook с анализом и визуализациями](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/AB-тесты/ДИПЛОМ%20.ipynb)
 * [Excel-калькулятор ](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/AB-тесты/Final.xlsx)
+* [Презентация с выводами и рекомендациями](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/AB-тесты/Дипломная%20работа.pptx)
 * [Описание кейса A/B-тесты](https://github.com/romanovaon1983-creator/skypro-projects/blob/main/AB-тесты/README.md)
